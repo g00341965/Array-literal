@@ -4,4 +4,4 @@ colors = ['white', 'black', 'red'];
 
 // Show the first item from the array 
 var el = document.getElementById('colors');
-el.textContent = colors[0];
+el.textContent = colors[2];
